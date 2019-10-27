@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: eureka1
+  security:
+    user:
+      name: dtsaas
+      password: P72iocksCDGA5MSG
+server:
+  port: 7000
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: true
+    status-page-url: https://www.baidu.com
+  client:
+    service-url:
+      defaultZone: http://dtsaas:P72iocksCDGA5MSG@localhost:7001/eureka/
