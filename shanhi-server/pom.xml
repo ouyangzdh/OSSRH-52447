@@ -22,7 +22,7 @@
 	</licenses>
 	<scm>
 	  <tag>master</tag>
-	  <url>git@github.com:ouyangzdh/OSSRH-52447.git</url>
+	  <url>https://github.com/ouyangzdh/OSSRH-52447.git</url>
 	  <connection>scm:git@github.com:ouyangzdh/OSSRH-52447.git</connection>
 	  <developerConnection>scm:git@github.com:ouyangzdh/OSSRH-52447.git</developerConnection>
 	</scm>
