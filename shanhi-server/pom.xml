@@ -22,9 +22,9 @@
 	</licenses>
 	<scm>
 	  <tag>master</tag>
-	  <url>git@gitee.com:aduer_zdh/shanhi.git</url>
-	  <connection>scm:git:git@gitee.com:aduer_zdh/shanhi.git</connection>
-	  <developerConnection>scm:git:git@gitee.com:aduer_zdh/shanhi.git</developerConnection>
+	  <url>git@github.com:ouyangzdh/OSSRH-52447.git</url>
+	  <connection>scm:git@github.com:ouyangzdh/OSSRH-52447.git</connection>
+	  <developerConnection>scm:git@github.com:ouyangzdh/OSSRH-52447.git</developerConnection>
 	</scm>
 	<developers>
 	  <developer>
